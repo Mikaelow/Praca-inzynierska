@@ -1,0 +1,25 @@
+1. wstep
+- lozyska dalczego stosuje sie algorytmy si do diagnozowania lozysk, google sholar lozyska i uczenie maszynowe algorytmy powolac sie na nie
+
+2. cel pracy
+- rozoznienie wykorzystanie sztucznej do rozroznienia uszkodzenia 6 typow 
+
+3. zarkes pracy
+- rodzaje uszkodzen tych 6 uszkodzen
+
+4. podstawy teoretyczne
+- lozyskach
+
+5. algorytmy sztucznej inteligencji
+- algorytmy
+- metryki
+
+6. baza danych jak zostala wykonana
+
+7. rezultaty
+
+8. inzynieria cech
+
+9. podsumowanie
+- mosi byc ze cel zostal osiagniety 
+- jakie sa mozliwosci rozwoju pracy

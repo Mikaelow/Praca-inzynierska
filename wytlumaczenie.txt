@@ -1,0 +1,2 @@
+100 wynikow dla kazdej cechy bo jest 10 badan dla danego lozyska i 1 pomiar jest dzielony na 10 segmentow i z kazdego segmentu jest wydzielana cecha
+Dlaczego funkcje zwracaja tabele 2 wymiarowa? - bo jakby np rms mial ustawione wiele cech w jednej funkcji wyswietli je [[],[]] a podstawowo jest tak [[]]
